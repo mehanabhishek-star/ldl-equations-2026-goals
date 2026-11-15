@@ -1,0 +1,88 @@
+block,domain,outcome,n,x,p,lb,ub,neff,df,mil,flag
+A. Discordance at personal goal,d_primary,mh_miss,71,14,17.009676,8.2405071,29.528212,71,9,.75842404,ok
+A. Discordance at personal goal,d_primary,s_miss,71,8,11.072008,4.2206149,22.424723,71,9,.49367648,SUPPRESS: rel CI width>130%
+A. Discordance at personal goal,d_primary,nh_miss,71,10,13.89877,6.0653729,25.866783,71,9,.61971563,SUPPRESS: rel CI width>130%
+A. Discordance at personal goal,d_primary,conc_miss,71,9,12.12798,4.8927093,23.725182,71,9,.54075998,SUPPRESS: rel CI width>130%
+A. Discordance at personal goal,d_primary,any_miss,71,15,18.780466,9.5333576,31.563396,71,9,.83737969,ok
+A. Discordance at personal goal,d_primary,mh_m5,71,8,11.937794,3.1973512,28.370806,40.873688,9,.53228003,SUPPRESS: rel CI width>130%
+A. Discordance at personal goal,d_primary,mh_m10,71,2,5.0147066,.42313436,18.961802,41.517483,9,.22359474,SUPPRESS: rel CI width>130%
+A. Discordance at personal goal,d_primary,nh_m10,71,7,10.031541,3.306124,21.980974,63.267578,9,.44728434,SUPPRESS: rel CI width>130%
+A. Discordance at personal goal,d_lowtg,mh_miss,215,10,4.4039297,1.2994303,10.533734,115.41533,15,.5553689,SUPPRESS: rel CI width>130%
+A. Discordance at personal goal,d_lowtg,s_miss,215,12,5.5816636,1.3816622,14.380923,74.222267,15,.70389003,SUPPRESS: rel CI width>130%
+A. Discordance at personal goal,d_lowtg,nh_miss,215,0,0,0,1.9862533,215,15,0,review: 0/100%
+A. Discordance at personal goal,d_lowtg,conc_miss,215,0,0,0,1.9862533,215,15,0,review: 0/100%
+A. Discordance at personal goal,d_lowtg,any_miss,215,13,6.1504593,1.6374447,15.271838,72.801788,15,.77561945,SUPPRESS: rel CI width>130%
+A. Discordance at personal goal,d_lowtg,mh_m5,215,0,0,0,1.9862533,215,15,0,review: 0/100%
+A. Discordance at personal goal,d_lowtg,mh_m10,215,0,0,0,1.9862533,215,15,0,review: 0/100%
+A. Discordance at personal goal,d_lowtg,nh_m10,215,0,0,0,1.9862533,215,15,0,review: 0/100%
+A. Discordance at personal goal,d_alltrt,mh_miss,286,24,7.6967106,4.6813712,11.787799,286,15,1.3137929,ok
+A. Discordance at personal goal,d_alltrt,s_miss,286,20,7.015811,3.9209921,11.425133,239.78911,15,1.1975665,ok
+A. Discordance at personal goal,d_alltrt,nh_miss,286,10,3.6305356,1.2949812,7.8961,182.89108,15,.61971563,SUPPRESS: rel CI width>130%
+A. Discordance at personal goal,d_alltrt,conc_miss,286,9,3.1679826,1.1114933,6.9690132,204.75497,15,.54075998,SUPPRESS: rel CI width>130%
+A. Discordance at personal goal,d_alltrt,any_miss,286,28,9.4495773,5.8848538,14.18689,250.83339,15,1.6129992,ok
+A. Discordance at personal goal,d_alltrt,mh_m5,286,8,3.1183035,.8175835,7.9656529,142.73438,15,.53228003,SUPPRESS: rel CI width>130%
+A. Discordance at personal goal,d_alltrt,mh_m10,286,2,1.3099051,.088909224,5.5781183,130.53139,15,.22359474,SUPPRESS: rel CI width>130%
+A. Discordance at personal goal,d_alltrt,nh_m10,286,7,2.6203659,.80088258,6.2236633,204.55876,15,.44728434,SUPPRESS: rel CI width>130%
+A. Discordance at personal goal,d_prim_low,mh_miss,96,15,12.678022,6.224061,22.138626,96,11,.93054652,ok
+A. Discordance at personal goal,d_prim_low,s_miss,96,9,9.0710287,3.7501225,17.734238,96,11,.66579896,SUPPRESS: rel CI width>130%
+A. Discordance at personal goal,d_prim_low,nh_miss,96,11,10.78822,4.6826715,20.379734,87.754829,11,.79183811,SUPPRESS: rel CI width>130%
+A. Discordance at personal goal,d_prim_low,conc_miss,96,10,9.7125072,3.6153867,20.046694,74.836517,11,.71288246,SUPPRESS: rel CI width>130%
+A. Discordance at personal goal,d_prim_low,any_miss,96,16,13.753736,7.0034332,23.415274,96,11,1.0095022,ok
+A. Discordance at personal goal,d_prim_low,mh_m5,96,8,7.2519298,2.6099968,15.420312,96,11,.53228003,SUPPRESS: rel CI width>130%
+A. Discordance at personal goal,d_prim_low,mh_m10,96,2,3.0463164,.42307949,10.10674,87.999573,11,.22359474,SUPPRESS: rel CI width>130%
+A. Discordance at personal goal,d_prim_low,nh_m10,96,8,8.4389696,2.4856384,19.695015,62.394901,11,.61940682,SUPPRESS: rel CI width>130%
+A. Discordance at personal goal,d_untr,mh_miss,23,9,36.246311,14.617537,62.960777,23,6,.60641617,SUPPRESS: n_eff<30
+A. Discordance at personal goal,d_untr,s_miss,23,7,24.845308,7.3788633,51.72094,23,6,.41567254,SUPPRESS: n_eff<30
+A. Discordance at personal goal,d_untr,nh_miss,23,10,40.005672,17.297316,66.402206,23,6,.66931188,SUPPRESS: n_eff<30
+A. Discordance at personal goal,d_untr,conc_miss,23,8,34.258667,13.255107,61.090858,23,6,.57316202,SUPPRESS: n_eff<30
+A. Discordance at personal goal,d_untr,any_miss,23,11,41.99332,18.766266,68.172752,23,6,.70256603,SUPPRESS: n_eff<30
+A. Discordance at personal goal,d_untr,mh_m5,23,5,21.51897,5.568109,48.182285,23,6,.3600215,SUPPRESS: n_eff<30
+A. Discordance at personal goal,d_untr,mh_m10,23,2,14.260674,2.2627418,39.943256,23,6,.23858713,SUPPRESS: n_eff<30
+A. Discordance at personal goal,d_untr,nh_m10,23,4,21.48572,5.5508313,48.146229,23,6,.35946521,SUPPRESS: n_eff<30
+"B. Primary, by goal group",Borderline/intermediate (<100),mh_miss,47,5,6.1975226,.43967792,24.092752,39.061203,5,.18508609,SUPPRESS: rel CI width>130%
+"B. Primary, by goal group",Borderline/intermediate (<100),s_miss,47,4,4.6175489,.25611326,19.59197,47,5,.13790092,SUPPRESS: rel CI width>130%
+"B. Primary, by goal group",Borderline/intermediate (<100),nh_miss,47,3,3.9399784,.14544155,18.582478,47,5,.11766559,SUPPRESS: rel CI width>130%
+"B. Primary, by goal group",High >=10% (<70),mh_miss,11,3,25.554892,4.3389421,62.107338,9.5013618,0,.13850841,SUPPRESS: n_eff<30
+"B. Primary, by goal group",High >=10% (<70),s_miss,11,1,8.5896683,.1801943,40.648148,11,0,.046556301,SUPPRESS: n_eff<30
+"B. Primary, by goal group",High >=10% (<70),nh_miss,11,4,40.122261,9.7999649,77.630424,7.9316549,0,.21746406,SUPPRESS: n_eff<30
+"B. Primary, by goal group","ASCVD, not VHR (<70)",mh_miss,6,2,38.696339,3.9834749e-22,100,4.335577,1,.20730606,SUPPRESS: n_eff<30
+"B. Primary, by goal group","ASCVD, not VHR (<70)",s_miss,6,1,31.313513,5.2036613e-32,100,3.7633326,1,.1677544,SUPPRESS: n_eff<30
+"B. Primary, by goal group","ASCVD, not VHR (<70)",nh_miss,6,1,31.313513,5.2036613e-32,100,3.7633326,1,.1677544,SUPPRESS: n_eff<30
+"B. Primary, by goal group","ASCVD, VHR (<55)",mh_miss,7,4,57.659458,18.275499,90.689095,6.796454,0,.22752349,SUPPRESS: n_eff<30
+"B. Primary, by goal group","ASCVD, VHR (<55)",s_miss,7,2,35.850311,6.5325046,76.650948,7,0,.14146487,SUPPRESS: n_eff<30
+"B. Primary, by goal group","ASCVD, VHR (<55)",nh_miss,7,2,29.607691,4.0340476,71.804695,7,0,.11683157,SUPPRESS: n_eff<30
+C. Above personal goal (JAMA check),d_bm_prim,above_mh,1985,784,32.552837,29.583723,35.630184,1126.0659,15,51.241768,ok
+C. Above personal goal (JAMA check),d_bm_prim,f_above,1985,765,31.855095,28.692564,35.147259,979.27277,15,50.143444,ok
+C. Above personal goal (JAMA check),d_bm_prim,above_s,1985,799,33.333897,30.47311,36.289246,1229.9344,15,52.471237,ok
+C. Above personal goal (JAMA check),d_bm_sec,above_mh,249,194,77.60659,68.915222,84.834145,135.41687,15,11.620313,ok
+C. Above personal goal (JAMA check),d_bm_sec,f_above,249,184,72.642715,64.566551,79.756104,167.52843,15,10.877054,ok
+C. Above personal goal (JAMA check),d_bm_sec,above_s,249,192,77.169434,68.50502,84.413643,137.26857,15,11.554855,ok
+C. Above personal goal (JAMA check),d_bm_all,above_mh,2234,978,36.466217,33.431053,39.583809,1146.2676,15,62.86208,ok
+C. Above personal goal (JAMA check),d_bm_all,f_above,2234,949,35.397919,32.147377,38.752197,984.27478,15,61.020496,ok
+C. Above personal goal (JAMA check),d_bm_all,above_s,2234,991,37.141464,34.2206,40.134148,1248.7599,15,64.026093,ok
+C2. Above by MH but at goal by F,d_bm_all,hidden (all),2234,39,1.5374821,.91079932,2.4247859,1368.3656,15,2.6503794,ok
+C2. Above by MH but at goal by F,d_bm_all & above by MH,hidden (share),978,39,4.2161818,2.4233782,6.7675862,444.54324,15,2.6503794,ok
+C2. Above by MH but at goal by F,d_bm_prim,hidden (all),1985,26,1.1236824,.67665565,1.7515674,1985,15,1.7688003,ok
+C2. Above by MH but at goal by F,d_bm_prim & above by MH,hidden (share),784,26,3.4518723,2.0200214,5.4761996,577.41626,15,1.7688003,ok
+C2. Above by MH but at goal by F,d_bm_sec,hidden (all),249,13,5.8876524,2.5451798,11.35313,155.43356,15,.88157922,SUPPRESS: rel CI width>130%
+C2. Above by MH but at goal by F,d_bm_sec & above by MH,hidden (share),194,13,7.5865364,3.3180351,14.438492,122.12045,15,.88157922,SUPPRESS: rel CI width>130%
+C2. Above by MH but at goal by F,treated TG>=150,hidden (all),194,15,7.0658722,3.3302524,12.871436,153.58853,15,.93054652,SUPPRESS: rel CI width>130%
+C. Above personal goal (JAMA check),d_bm_trt150,above_mh,194,113,51.332638,38.746033,63.796574,77.56144,15,6.7602987,ok
+C. Above personal goal (JAMA check),d_bm_trt150,f_above,194,98,44.266766,28.495708,60.931427,46.054573,15,5.829752,SUPPRESS: CI width>=30
+C. Above personal goal (JAMA check),d_bm_trt150,above_s,194,107,49.322342,36.509323,62.200916,73.840446,15,6.4955511,ok
+"D. At own goal (treated, formal goal)",d_trt150_formal,f_at,168,71,44.275673,30.248131,59.004913,58.339237,15,4.4587803,ok
+"D. At own goal (treated, formal goal)",d_trt150_formal,at_mh,168,57,36.744522,24.779068,50.038483,71.35199,15,3.7003562,ok
+"D. At own goal (treated, formal goal)",d_trt150_formal,at_s,168,63,39.373466,27.36351,52.404064,74.343414,15,3.9651039,ok
+"D. At own goal (treated, formal goal)",d_trt150_formal,at_nh,168,61,38.121899,27.981829,49.083481,102.80932,15,3.8390646,ok
+"D. At own goal (treated, formal goal)",d_trt150_formal,at_all,168,56,35.960495,24.851816,48.293102,81.90274,15,3.6214006,ok
+"D. At own goal (treated, formal goal)",d_trtlow_formal,f_at,431,215,51.700916,46.250568,57.121422,400.29379,15,12.610757,ok
+"D. At own goal (treated, formal goal)",d_trtlow_formal,at_mh,431,209,49.99844,44.566509,55.430397,401.23932,15,12.195494,ok
+"D. At own goal (treated, formal goal)",d_trtlow_formal,at_s,431,205,49.177853,42.809326,55.566185,292.77911,15,11.995337,ok
+"D. At own goal (treated, formal goal)",d_trtlow_formal,at_nh,431,271,63.368397,58.207069,68.311813,431,15,15.456659,ok
+"D. At own goal (treated, formal goal)",d_trtlow_formal,at_all,431,202,48.521072,42.284645,54.791775,304.16721,15,11.835138,ok
+E. TG bridged (backward equation),d_primary_b,mh_miss_b,49,9,14.493172,4.9712467,30.386406,49,7,.42822823,SUPPRESS: rel CI width>130%
+E. TG bridged (backward equation),d_lowtg_b,mh_miss_b,217,15,5.9518514,3.0131605,10.388676,217,15,.75572401,ok
+E. TG bridged (backward equation),d_primary_b,s_miss_b,49,3,3.7116947,.19995107,16.118114,49,7,.10966906,SUPPRESS: rel CI width>130%
+E. TG bridged (backward equation),d_lowtg_b,s_miss_b,217,11,4.4551134,1.890975,8.7317381,199.28004,15,.56567878,SUPPRESS: rel CI width>130%
+E. TG bridged (backward equation),d_bm_all,hidden_b (all),2234,35,1.1515036,.72107232,1.7418461,2234,15,1.9850128,ok
+E. TG bridged (backward equation),d_bm_all & above by MH,hidden_b (share),1024,35,3.0101938,1.9778134,4.3757849,1024,15,1.9850128,ok

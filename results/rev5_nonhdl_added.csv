@@ -1,0 +1,7 @@
+domain,outcome,n,x,p,lb,ub,flag
+d_def,add_mh,1250,3,.23206066,.030383,.8127082,ok
+d_def,add_f,1250,20,1.7082989,.80840397,3.1542199,ok
+d_def_sec,add_mh,249,0,0,0,1.7200372,review: 0/100%
+d_def_sec,add_f,249,4,2.3221025,.23649074,8.6277399,SUPPRESS: rel CI width>130%
+d_def_t150,add_mh,168,1,.7840293,.016424397,4.4632325,ok
+d_def_t150,add_f,168,10,6.1537738,2.1755459,13.282617,SUPPRESS: rel CI width>130%

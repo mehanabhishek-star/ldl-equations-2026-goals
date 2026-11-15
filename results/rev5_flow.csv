@@ -1,0 +1,24 @@
+step,n
+"JAMA-style base: 30-79, fasting weight >0, Martin-Hopkins LD",2369
+  of which pregnant (we exclude),9
+  of which missing Friedewald/Sampson/non-HDL-C,0
+After those exclusions,2360
+"  ASCVD (CHD, angina, MI, stroke) - ours",249
+  ASCVD in JAMA-style base (before our exclusions),249
+  any ASCVD 'yes' in base (ignoring missing items),249
+  ASCVD history missing/don't know (we exclude),9
+  heart failure without ASCVD (both exclude),28
+"  no ASCVD, heart-failure item missing (we exclude)",1
+"  no ASCVD/HF, missing a PREVENT input (both exclude)",88
+     missing lbxtc,0
+     missing lbdhdd,0
+     missing sbp,57
+     missing bptx,1
+     missing statin,5
+     missing dm,0
+     missing smoker,1
+     missing egfr,25
+     MEC weight 0/missing,0
+"Our primary prevention n (JAMA 2,031)",1985
+Our ASCVD n (JAMA 282),249
+"Our total n (JAMA 2,313)",2234

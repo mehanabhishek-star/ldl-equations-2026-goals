@@ -1,0 +1,11 @@
+# NHANES files are public; download them with code/00_download_nhanes.py
+data/
+# Stata logs (run_all.py puts them in logs/) and intermediate datasets
+logs/
+*.log
+*.smcl
+*.dta
+# generated Word file and office lock files
+results/*.docx
+~$*
+__pycache__/
